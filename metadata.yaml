@@ -1,0 +1,42 @@
+_repo: Le-roman-de-la-rose---Tome-I_16816
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Guillaume, de Lorris, active 1230
+    aliases:
+    - De Lorris, Guillaume
+    - Lorris, Guillaume de
+    gutenberg_agent_id: '6951'
+    url: http://www.gutenberg.org/2009/agents/6951
+  - agent_name: Jean, de Meun
+    aliases:
+    - Clopinel, Jean
+    - Chopinel, Jean
+    - Meun, Jean de
+    - De Meun, Jean
+    - Meung, Jean de
+    - Jehan, de Meun
+    deathdate: 1304
+    gutenberg_agent_id: '6952'
+    url: http://www.gutenberg.org/2009/agents/6952
+    wikipedia: http://en.wikipedia.org/wiki/Jean_de_Meun
+description: "Édition accompagnée d'une traduction en vers\r\nPrécédée d'une introduction,\
+  \ Notices historiques et critiques; suivie de notes et d'un glossaire"
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2005-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16816'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Courtly love -- Poetry'
+- !lcsh 'Romances'
+title: Le roman de la rose - Tome I
+url: http://www.gutenberg.org/ebooks/16816
